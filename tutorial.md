@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tutorial"
-description: "Tutorial"
+title: "Tutorials"
+description: "Tutorials"
 group: navigation
 ---
 {% include JB/setup %}
