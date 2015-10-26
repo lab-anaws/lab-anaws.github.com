@@ -8,8 +8,7 @@ group: navigation
 
 ## Software insallation
 
-A VM is made available with all the software pre-installed for your convenience. 
-In case you want to install the software on your OS directly you can follow the following guidelines (Links are for Ubuntu OS, other tutorial for other OS can also be found) :
+To install the software on your OS directly you can follow the following guidelines (Links are for Ubuntu OS, other tutorial for other OS can also be found) :
 
 * Contiki OS <https://github.com/contiki-os/contiki/wiki/Setup-contiki-toolchain-in-ubuntu-13.04>
 
