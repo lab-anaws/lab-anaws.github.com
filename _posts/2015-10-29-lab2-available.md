@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Code and slides for lab2 are available.
+Code and slides for lab2 on IPv6 are available.
 You can download the material cloning the repo lab2:
 ```
 git clone git@github.com:lab-anaws/lab2.git
