@@ -24,3 +24,9 @@ group: navigation
 * The Book of GNS3: Build Virtual Network Labs Using Cisco, Juniper, and More,  by Jason C. Neumann, [Amazon](http://www.amazon.com/The-Book-GNS3-Virtual-Network/dp/1593275544)
 * Online catalyst3750 software configuration guide, [cisco](http://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/12-2_55_se/configuration/guide/scg3750.pdf)
 * Pointers to the on-line cisco material is provided also into Lab slides
+
+## SDN
+* Floodlight documentation, [here](http://www.projectfloodlight.org/documentation/)
+* Mininet documentation, [here](https://github.com/mininet/mininet/wiki/Documentation)
+* Mininet API documentation, [here(http://mininet.org/api)
+
