@@ -16,6 +16,9 @@ group: navigation
 ## Zolertia Z1 Motes
 * Information, specs and tutorials on the Zolertia Z1 motes can be found [here](http://zolertia.sourceforge.net/wiki/index.php/Main_Page)
 
+## Sky Motes
+* Information and specs on the Sky motes can be found [here](http://capsil.org/capsilwiki/index.php/TELOSB/T-Mote/Sky_Mote)
+
 ## Californium 
 * Californium [home page](http://www.eclipse.org/californium/)
 * A more detailed presentation on Californium can be found here [here](https://www.eclipsecon.org/france2014/sites/default/files/slides/Hands-on%20with%20CoAP.pdf)
