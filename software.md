@@ -10,14 +10,14 @@ group: navigation
 
 The software we will use in the lab is the following:
 
-####IoT
+#### IoT
 * [Contiki OS](http://www.contiki-os.org/), a popular OS for sensors. The distribution includes Cooja an emulator for wireless sensor networks.
 * [Californium](https://github.com/eclipse/californium), a Java implementation of the CoAP protocol. 
 
-####Internet Backbone
+#### Internet Backbone
 * [GNS3](http://www.gns3.com/), a software emulator for networks.
 
-####Software Defined Networking
+#### Software Defined Networking
 * [Mininet](http://mininet.org/), a network emulator which creates a network of virtual hosts, switches, controllers, and links for SDN testing and deployment. 
 * [Floodlight](http://www.projectfloodlight.org/floodlight/), a Java implementation of an SDN controller. 
 
