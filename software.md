@@ -11,7 +11,7 @@ group: navigation
 The software we will use in the lab is the following:
 
 #### IoT
-* [Contiki OS](http://www.contiki-os.org/), a popular OS for sensors. The distribution includes Cooja an emulator for wireless sensor networks.
+* [Contiki OS](http://www.contiki-os.org/), a popular OS for sensors. The distribution includes Cooja an emulator for wireless sensor networks. A Virtual Machine with contiki pre-installed is available as Instant Contiki in the project website. 
 * [Californium](https://github.com/eclipse/californium), a Java implementation of the CoAP protocol. 
 
 #### Internet Backbone
