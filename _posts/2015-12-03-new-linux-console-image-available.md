@@ -13,7 +13,7 @@ A new Linux Console image is provided for your convenience.
 To upgrade run in the VM:
 
 ```
-wget https://github.com/lab-anaws/lab6/raw/master/linux-core.qcow2
+wget https://github.com/lab-anaws/lab6-2015/raw/master/linux-core.qcow2
 ```
 
 Create a new QEMU VM, using the default values and the linux-core.qcow2 file as hard drive. 

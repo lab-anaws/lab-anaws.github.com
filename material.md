@@ -6,6 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
+## Git
+* Code will be provided using GIT, a version control system commonly used in large projects to manage the software development workflow. To learn its basics please refer [here](http://rogerdudler.github.io/git-guide/)
+
 ## Contiki 
 * Complete contiki documentation can be found [here](https://github.com/contiki-os/contiki/wiki).
 * Contiki code documentation [v2.6](http://contiki.sourceforge.net/docs/2.6/)
