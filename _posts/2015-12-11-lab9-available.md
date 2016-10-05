@@ -10,6 +10,6 @@ tags: []
 Slides and Floodlight examples for lab9 on SDN are available.
 You can download the material cloning the repo lab9:
 ```
-git clone git@github.com:lab-anaws/lab9.git
+git clone git@github.com:lab-anaws/lab9-2015.git
 ```
 You can also browse the code from  <https://github.com/lab-anaws/lab9-2015>

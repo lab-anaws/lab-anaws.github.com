@@ -11,7 +11,7 @@ tags: []
 Slides and GNS3 scenarios for lab5 on IPv6 configuration in Cisco routers are available.
 You can download the material cloning the repo lab5:
 ```
-git clone git@github.com:lab-anaws/lab5.git
+git clone git@github.com:lab-anaws/lab5-2015.git
 ```
 You can also browse the code from  <https://github.com/lab-anaws/lab5-2015>
 
