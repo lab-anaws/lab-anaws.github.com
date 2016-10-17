@@ -15,3 +15,5 @@ git clone git@github.com:lab-anaws/lab3-2016.git
 
 You can also browse the code from  <https://github.com/lab-anaws/lab3-2016>
 
+Make sure to use InstantContiki 3.0 for this lab. 
+
