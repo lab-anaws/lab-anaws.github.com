@@ -10,6 +10,7 @@ group: navigation
 * Code will be provided using GIT, a version control system commonly used in large projects to manage the software development workflow. To learn its basics please refer [here](http://rogerdudler.github.io/git-guide/)
 
 ## Contiki 
+* A book on Contiki programming is available: "IoT in 5 days: an easy guide to Wireless Sensor Networks (WSN), IPv6 and the Internet of Things (IoT)" by Antonio Linan Colina and Alvaro Vives and Antoine Bagula and Marco Zennaro and Ermanno Pietrose. You can download the last version of the book [here](http://www.iet.unipi.it/c.vallati/files/IoTinfivedays-v1.0.pdf), or you can visit the home page of the book [here](https://github.com/marcozennaro/IPv6-WSN-book).
 * Complete contiki documentation can be found [here](https://github.com/contiki-os/contiki/wiki).
 * Contiki code documentation [v2.6](http://contiki.sourceforge.net/docs/2.6/)
 * Sics class notes for Contiki basic programming [here](https://www.sics.se/~thiemo/seniot09cccc-notes.pdf)
