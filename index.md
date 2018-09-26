@@ -12,7 +12,7 @@ This page contains specific material for the lab classes. General material for t
 <ul style="list-style: none;">
             {% for post in site.posts %}
 		    {% assign currentDate = post.date | date: "%Y" %}
-			{% if currentDate == "2017" %}
+			{% if currentDate == "2018" %}
 		            <li>
 		            <a href="{{ post.url }}">
 		             <h3>{{ post.title }}</h3> </a>
