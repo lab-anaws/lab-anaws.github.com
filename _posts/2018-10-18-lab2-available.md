@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lab1 Available"
+title: "Lab2 Available"
 description: ""
 category: 
 tags: []
