@@ -8,7 +8,7 @@ tags: []
 {% include JB/setup %}
 
 Code and slides for lab4 on CoAP is available. 
-You can download the material cloning the repo lab3:
+You can download the material cloning the repo lab4:
 ```
 git clone https://github.com/lab-anaws/lab4-2018.git
 ```
