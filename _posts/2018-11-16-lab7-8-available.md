@@ -15,5 +15,5 @@ git clone https://github.com/lab-anaws/lab7-8-2018.git
 
 You can also browse the code from  <https://github.com/lab-anaws/lab7-8-2018>
 
-The first lab will be on Thursday 16/11.
+The labs will be on Friday 16/11 and Monday 19/11.
 
